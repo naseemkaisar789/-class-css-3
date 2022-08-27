@@ -1,0 +1,32 @@
+
+.frame{
+	width: 45%;
+	height: 375px;
+}
+
+ .frame2{
+ 	width: 100%;
+ 	height: 450px;
+ }
+
+h1{
+	color: red;
+}
+
+.span{ 
+  color: blue;
+ } 
+
+.box{
+	width: 100px;
+    height: 100px;
+}
+.red{
+    background-color: red;
+    border: 10px solid black;
+    padding: 30px;
+}
+.green{
+	 background-color: green;
+	 margin: 50px 100px 30px 40px;
+}
